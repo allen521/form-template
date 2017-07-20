@@ -5,7 +5,7 @@
     目前仅支持input  type=text 的输入框 其余的正在部署中...
 ##图例
   ###demo-image
-  ![Image](https://github.com/allen521/vue2-vuex-node-gulp-input-/raw/master/src/images/input.png)
+  ![Image](https://github.com/allen521/form-template/raw/master/src/images/input.png)
 
 
 
